@@ -128,7 +128,7 @@ def hangman(secret_word):
     * Ask the user to supply one guess per round. Remember to make
       sure that the user puts in a letter!
     
-    * The user should receive feedback immediately after each guess 
+    * The user should receive    feedback immediately after each guess 
       about whether their guess appears in the computer's word.
 
     * After each guess, you should display to the user the 
